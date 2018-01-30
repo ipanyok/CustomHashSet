@@ -1,4 +1,4 @@
-# Custom hashset strucrure
+# Custom hashset structure
 Implemented custom structure. Its functionality as hash structure.
 This structure supplies the following logic:
  - stores information of different types in buckets
